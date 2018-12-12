@@ -1,4 +1,4 @@
-package com.mark.enm;
+package com.mark.enums;
 
 public enum UserSexEnum {
     MAN, WOMAN

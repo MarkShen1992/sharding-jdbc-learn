@@ -1,6 +1,6 @@
 package com.mark.entity;
 
-import com.mark.enm.UserSexEnum;
+import com.mark.enums.UserSexEnum;
 
 import java.io.Serializable;
 
