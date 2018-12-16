@@ -7,7 +7,7 @@
  Source Host           : localhost:3306
  Source Schema         : test1
 
- Target Server Type    : MariaDB
+ Target Server Type    : MariaDBsh
  Target Server Version : 100307
  File Encoding         : 65001
 
